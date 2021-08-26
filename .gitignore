@@ -68,3 +68,6 @@ Created by https://www.toptal.com/developers/gitignore/api/xilinxvivado
 
 # End of https://www.toptal.com/developers/gitignore/api/xilinxvivado
 
+single_cycle_processor.sim/
+single_cycle_processor.ip_user_files/
+
